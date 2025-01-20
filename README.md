@@ -2,7 +2,7 @@
 
 
 Este projeto implementa um programa em C para controlar LEDs e um buzzer conectados a uma Raspberry Pi Pico. O código utiliza a biblioteca pico/stdlib.h para manipular os pinos GPIO, permitindo o acionamento de LEDs de diferentes cores e a geração de sons no buzzer.
-# Funcionalidades
+## Funcionalidades
 O programa oferece as seguintes funcionalidades:
 
   - Controle de LEDs:
@@ -11,7 +11,7 @@ O programa oferece as seguintes funcionalidades:
     - Desligar todos os LEDs.
   - Controle do buzzer:
     - Gerar som com frequência e duração especificadas.
-# Hardware Necessário
+## Hardware Necessário
 Raspberry Pi Pico.
 - LEDs:
   - Vermelho conectado ao pino GPIO 13.
@@ -20,7 +20,7 @@ Raspberry Pi Pico.
   - Buzzer conectado ao pino GPIO 21.
   - Resistores para os LEDs.
 
-# Ferramentas e Tecnologias Utilizadas
+## Ferramentas e Tecnologias Utilizadas
 Para o desenvolvimento e execução deste projeto, utilizamos as seguintes ferramentas e tecnologias:
 
 - Linguagem C: Utilizei a linguagem C porque era um dos requisitos da tarefa e por ela ser uma linguagem eficiente e integração direta com o hardware da Raspberry Pi Pico.

@@ -6,7 +6,7 @@ Este projeto implementa um programa em C para controlar LEDs e um buzzer conecta
 O programa oferece as seguintes funcionalidades:
 
   - Controle de LEDs:
-Acionar LEDs individuais: vermelho, verde e azul.
+    - Acionar LEDs individuais: vermelho, verde e azul.
 Ligar todos os LEDs simultaneamente.
 Desligar todos os LEDs.
 Controle do buzzer:

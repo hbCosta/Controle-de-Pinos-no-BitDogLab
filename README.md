@@ -66,14 +66,7 @@ git clone https://github.com/hbCosta/Controle-de-Pinos-no-BitDogLab.git
 ### 5. Utilizar o Projeto com PuTTY
 
 1. Abra o **PuTTY** em seu computador.
-2. Conecte-se à Raspberry Pi Pico utilizando a porta serial correspondente (por exemplo, `/dev/ttyACM0` no Linux ou `COMx` no Windows).
-3. Configure a comunicação serial com a Raspberry Pi Pico:
-   - **Baud rate**: 115200 (ou conforme especificado no código).
-   - **Data bits**: 8
-   - **Stop bits**: 1
-   - **Parity**: None
-   - **Flow control**: None
-
+2. Conecte-se à Raspberry Pi Pico utilizando a porta serial correspondente (por exemplo,  `COMx` no Windows).
 4. Após a conexão ser estabelecida, você verá o terminal no PuTTY. Agora, você pode usar o terminal para interagir com o projeto, controlando os LEDs e o buzzer conforme as entradas fornecidas (ver comandos no README).
 
 ### Comandos de Controle:

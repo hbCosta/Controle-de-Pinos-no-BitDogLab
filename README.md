@@ -81,3 +81,6 @@ git clone https://github.com/hbCosta/Controle-de-Pinos-no-BitDogLab.git
 ### Pronto!
 
 Agora você pode controlar os LEDs e o buzzer na sua Raspberry Pi Pico diretamente do terminal usando o PuTTY.
+
+## Licença
+Este projeto está disponível sob a licença MIT. 

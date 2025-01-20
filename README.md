@@ -12,10 +12,10 @@ O programa oferece as seguintes funcionalidades:
   - Controle do buzzer:
     - Gerar som com frequência e duração especificadas.
 # Hardware Necessário
-Raspberry Pi Pico;
+Raspberry Pi Pico.
 - LEDs:
   - Vermelho conectado ao pino GPIO 13.
   - Verde conectado ao pino GPIO 11.
   - Azul conectado ao pino GPIO 12.
   - Buzzer conectado ao pino GPIO 21.
-  - Resistores para os LEDs (se necessário).
+  - Resistores para os LEDs.
